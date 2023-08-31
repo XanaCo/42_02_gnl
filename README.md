@@ -1,9 +1,3 @@
-# 42_ft_printf
+# 42_get_next_line
 
-This project if about recoding the printf function.
-
-## Usage
-
-```make``` to compile
-
-
+This project is about recoding the getline function.
