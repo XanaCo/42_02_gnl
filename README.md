@@ -1,4 +1,10 @@
-# 42_get_next_line
+
+<div align=center>
+<img src=https://github.com/Xanaco/42_00_Ressources/blob/main/get_next_linem.png alt=cado-car's 42Project Badge/>
+<h2>Final score</h2>
+<img src=https://github.com/Xanaco/42_00_Ressources/blob/main/125Grade.png alt=Xanaco's 42Project Score/>
+<h4>Completed + Bonus</h4>
+</div>
 
 ## Overview
 
@@ -32,6 +38,6 @@ The primary challenge is managing buffers efficiently, ensuring that the functio
 
 5. **Efficiency Optimization**: Crafting solutions that are not only functional but also optimized for performance.
 
-6. **Data Parsing**: Indirectly, the project familiarizes students with the basics of parsing, as they have to detect line breaks and manage partial data reads.
+6. **Data Parsing**: Indirectly, the project familiarizes students with the basics of parsing, as the function has to detect line breaks and manage partial data reads.
 
 7. **Modular Programming**: Creating a utility function that can be reused in various projects, emphasizing the importance of modular and reusable code.
